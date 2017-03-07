@@ -20,6 +20,9 @@
   tablr:
     copyPaste: {}
   "vim-mode": {}
+  "vim-mode-plus":
+    statusBarModeStringStyle: "long"
+    useClipboardAsDefaultRegister: true
   welcome:
     showOnStartup: false
 ".basic.html.text":

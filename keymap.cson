@@ -33,3 +33,6 @@
 
 'atom-text-editor.vim-mode-plus.insert-mode':
   'ctrl-j': 'vim-mode-plus:activate-normal-mode'
+
+'atom-text-editor.vim-mode-plus.visual-mode':
+  'ctrl-j': 'vim-mode-plus:activate-normal-mode'
