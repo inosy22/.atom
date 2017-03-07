@@ -1,0 +1,14 @@
+atom-autocomplete-php@0.22.0
+file-icons@2.0.17
+language-tmux@0.4.0
+linter@1.11.23
+linter-php@1.3.1
+project-manager@3.3.3
+script@3.14.1
+symbol-gen@1.3.1
+symbols-tree-view@0.13.2
+tablr@1.8.1
+vim-mode-plus@0.83.0
+vim-mode-plus-ex-mode@0.9.0
+vim-mode-visual-block@0.2.16
+

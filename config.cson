@@ -1,0 +1,40 @@
+"*":
+  core:
+    audioBeep: false
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    invisibles:
+      eol: "$"
+      space: "_"
+      tab: ">"
+    showInvisibles: true
+    softWrapHangingIndent: 2
+  "exception-reporting":
+    userId: "ff6f2120-4206-0bb1-7e38-8f471d3bd8c5"
+  "markdown-preview":
+    breakOnSingleNewline: true
+  "symbols-tree-view": {}
+  tablr:
+    copyPaste: {}
+  "vim-mode": {}
+  welcome:
+    showOnStartup: false
+".basic.html.text":
+  editor:
+    softWrap: true
+".html.php.text":
+  editor:
+    autoIndentOnPaste: false
+    scrollPastEnd: true
+    softWrap: true
+    tabLength: 4
+".java.source":
+  editor:
+    softWrap: true
+    tabLength: 4
+".json.source":
+  editor:
+    softWrap: true
